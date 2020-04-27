@@ -1,0 +1,17 @@
+{
+  "name": "GemAppClone",
+  "displayName": "GemAppClone",
+  "expo": {
+    "name": "GemAppClone",
+    "slug": "GemAppClone",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
